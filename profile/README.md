@@ -89,16 +89,18 @@ Add 11 Achievements (MaxSpringer, Voduke, Lin)
 - Furious Assault
   - We're rich! **-** Spears shall be shaken! **-** Goblin Slayer **-** Do you believe in gravity? **-** Shields shall be splintered! **-** 99 Luftballoons **-** So it's the same type of stand... **-** Let it Die! **-** I hate sand **-** Gently Weeps
 
-Add 6 restored content (MaxSpringer)
-- 3 Flash version
+Add 7 restored content (MaxSpringer)
+- 3 from Flash version
   - Soul drain ability for Vez'nan (MaxSpringer)
   - Net ability for Barbarian tower (MaxSpringer)
   - Crosshair for musketer tower (MaxSpringer)
-- 1 Steam version
+- 1 from Steam version
   - Settings screen assets (fifu)
-- 2 Mobile version
+- 2 from Mobile version
   - Bag items (MaxSpringer, fifu, danthegable)
   - Shop (MaxSpringer, fifu, danthegable)
+- 1 from KRV & KRA
+  - Path indicator for wave flags (fifu)
 
 Add 5 Quality of life (MaxSpringer, fifu)
 - Special towers in the Encyclopedia (MaxSpringer)
