@@ -117,6 +117,7 @@ Remove 3 levels (MaxSpringer)
 - test (Vez'nan Enjoyer, Voduke)
 - NotRottenForest (KM5)
 - Hammerhold Oasis (KM5)
+
 Fix templates to match Vanilla (fifu, MaxSpringer)
 
 Fix bugs (MaxSpringer)
@@ -127,7 +128,63 @@ Add Furious Assault map visuals (MaxSpringer)
 
 Add 1 KRV tower (MaxSpringer)
   - Grim Cemetery (art rework by MaxSpringer, code by MaxSpringer)
+
 Fix bugs (MaxSpringer)
+
+---
+### 5 - Peerless Update
+Add 12 KRV towers (vrooomcar)
+  - T1-3 towers from Kingdom Rush Conquest (code and art by MaxSpringer)
+
+Add 15 abilities to special towers (Voduke, Vroom)
+  - 3 Sasquatch tower
+    - Mudball
+    - Abominable Chomp
+    - Regeneration
+  - 3 Imperial Guards
+    - Brothers in Arms
+    - Last Stand
+    - Resolve
+  - 3 Mercenary Camp
+    - Flurry
+    - Riposte
+    - Genie in a Lamp
+  - 3 Spear Maiden Hut
+    - Survivalist
+    - Wirlwind Manuever
+    - Savegery
+  - 3 Awok Hut
+    - Multiplication
+    - Zerg Rush
+    - Tiny But Mighty
+
+Add 3 heroes (MaxSpringer, fifu, Voduke)
+  - Oberon (code by MaxSpringer, art by Mister Squidward)
+  - Ember (code by Voduke and fifu, art by Plague Knight)
+  - Penumbra (code by Voduke and fifu, art by Darth Plague)
+
+Add Impossible difficulty option (Voduke, fifu)
+  - It is added between veteran and ImpossiBBBle because the gap between veteran and ImpossiBBBle was too big.
+  - ImpossiBBBle was not enought representing Impossible from other games because it was too hard and unique.
+
+Add 2 restored content from Flash version
+- Premium Content (fifu)
+  - Lightning spell (fifu)
+  - Extra gold (fifu)
+  - Extra Reinforcement (fifu)
+  - Reinforcements Skins (art redraw in FullHD by Plague Knight, code by fifu)
+- First part of splash animation (fifu)
+  - Art (Plague Knight)
+
+Add 3 quality of life
+- Info tab upgraded (MaxSpringer)
+- Level 12 credits now contain Vanilla + ReBBBorn's credits annd main credits now conatins Vanilla + ReBBBorn + Campaigns's credits (fifu)
+- New image for ReBBBorn's credits in the main credits (Plague Knight)
+
+Add 3 reworks (Voduke)
+  - change some custom towers stats (Voduke)
+  - New ImpossiBBBle difficulty icon (Plague Knight)
+  - ImpossiBBBle difficulty Renamed to Peerless (Voduke)
 
 ---
 ## Kingdom Rush Frontiers ReBBBorn
